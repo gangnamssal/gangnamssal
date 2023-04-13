@@ -1,44 +1,65 @@
-<div align=center><h1>👋 Hi, I’m @ohbyul </h1></div>
+<div align=center><h2>👋 안녕하세요! <a href="https://oil-atom-708.notion.site/9580e24a17a343eeab12db7ed9e0e099">@gangnamssal</a>입니다.😄</h2></div>
 
 <div align=center>
+    저의 GitHub에 오신걸 환영합니다.
+    
+  <br/>
+ <br/>
+ <br/>
 
-![gangnamssal's github stats](https://github-readme-stats.vercel.app/api?username=ohbyul&show_icons=true&theme=radical) 
+ <h2>| GitHub Stats |</h2>
+    
+![gangnamssal's github stats](https://github-readme-stats.vercel.app/api?username=gangnamssal&show_icons=true&theme=radical) 
+    
+ <br/>
+ <br/>
+ <br/>
 
+<h2>| Project Language |</h2>
+    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohbyul&layout=compact&theme=dracula)](https://github.com/metleeha)
+    
+ <br/>
+ <br/>
+ <br/>
 
-<hr>
+  <h2>| 기술 스택 |</h2>
+   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-plastic&logo=JavaScript&logoColor=black" />
+    <img src="https://img.shields.io/badge/-TypeScript-2F74C0?style=flat-plastic&logo=TypeScript&logoColor=white" />
+<img src="https://img.shields.io/badge/-React-5ED3F3?style=flat-plastic&logo=React&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-plastic&logo=Redux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ReactQuery-F73F51?style=flat-plastic&logo=ReactQuery&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Vue.js-00BB7C?style=flat-plastic&logo=Vue.js&logoColor=white" />
+     <img src="https://img.shields.io/badge/-Python-3771A0?style=flat-plastic&logo=Python&logoColor=F7C73B" />
+     <img src="https://img.shields.io/badge/-ReduxSaga-949494?style=flat-plastic&logo=ReduxSaga&logoColor=85D26A" />
+    <img src="https://img.shields.io/badge/-Emotion.js-C43BAD?style=flat-plastic&logo=Emotion.js&logoColor=85D26A" />
+    <img src="https://img.shields.io/badge/-GreenSock-88CE02?style=flat-plastic&logo=GreenSock&logoColor=white" />
+    <img src="https://img.shields.io/badge/-HTML5-DD4D25?style=flat-plastic&logo=HTML5&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CSS3-146EB0?style=flat-plastic&logo=CSS3&logoColor=white" />
+    <br />
+            <img src="https://img.shields.io/badge/-GitHub-black?style=flat-plastic&logo=GitHub&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Jira-2580F7?style=flat-plastic&logo=Jira&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Notion-000000?style=flat-plastic&logo=Notion&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Figma-white?style=flat-plastic&logo=Figma&logoColor=rgb(234,76,29)" />
+ 
+ <br/>
+ <br/>
+ <br/>
+    
+ <h2>| 기술블로그 및 SNS |</h2>
 
-[![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fohbyul&count_bg=%237A7A7A&title_bg=%23FFADCC&icon=reverbnation.svg&icon_color=%23FF0000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-![followers](https://img.shields.io/github/followers/ohbyul?style=social)
-
-
-<a href="https://byul91oh.tistory.com/">
+<a href="https://www.instagram.com/3ilove_mj/">
     <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://byul91oh.tistory.com/"
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/3ilove_mj/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a> <a href="https://instagram.com/fivepxint">
+</a> <a href="https://blog.naver.com/24691116">
     <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/fivepxint/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a> <a href="mailto:quf8093@gmail.com">
-    <img 
-        src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:quf8093@gmail.com"
+        src="https://img.shields.io/badge/NaverBlog-20D789?style=flat-square&logo=naver&logoColor=white&link=https://blog.naver.com/24691116"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+    
+ <br/>
+ <br/>
+ <br/>
 
 </div>
-  
-<!--
-**gangnamssal/gangnamssal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
