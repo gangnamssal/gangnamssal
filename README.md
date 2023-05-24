@@ -9,7 +9,8 @@
 
  <h2>| GitHub Stats |</h2>
     
-![gangnamssal's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gangnamssal&show_icons=true&theme=radical) 
+![gangnamssal's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gangnamssal&show_icons=true&theme=radical)
+    
     
  <br/>
  <br/>
@@ -17,7 +18,7 @@
 
 <h2>| Project Language |</h2>
     
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ohbyul&layout=compact&theme=dracula)](https://github.com/metleeha)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gangnamssal&layout=compact&theme=dracula)](https://github.com/gangnamssal)
     
  <br/>
  <br/>
