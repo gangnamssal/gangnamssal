@@ -29,6 +29,7 @@
     <img src="https://img.shields.io/badge/-TypeScript-2F74C0?style=flat-plastic&logo=TypeScript&logoColor=white" />
 <img src="https://img.shields.io/badge/-React-5ED3F3?style=flat-plastic&logo=React&logoColor=white" />
     <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-plastic&logo=Redux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-plastic&logo=Zustand&logoColor=white" />
     <img src="https://img.shields.io/badge/-ReactQuery-F73F51?style=flat-plastic&logo=ReactQuery&logoColor=white" />
     <img src="https://img.shields.io/badge/-Vue.js-00BB7C?style=flat-plastic&logo=Vue.js&logoColor=white" />
      <img src="https://img.shields.io/badge/-Python-3771A0?style=flat-plastic&logo=Python&logoColor=F7C73B" />
@@ -38,7 +39,7 @@
     <img src="https://img.shields.io/badge/-HTML5-DD4D25?style=flat-plastic&logo=HTML5&logoColor=white" />
     <img src="https://img.shields.io/badge/-CSS3-146EB0?style=flat-plastic&logo=CSS3&logoColor=white" />
     <br />
-            <img src="https://img.shields.io/badge/-GitHub-black?style=flat-plastic&logo=GitHub&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GitHub-black?style=flat-plastic&logo=GitHub&logoColor=white" />
     <img src="https://img.shields.io/badge/-Jira-2580F7?style=flat-plastic&logo=Jira&logoColor=white" />
     <img src="https://img.shields.io/badge/-Notion-000000?style=flat-plastic&logo=Notion&logoColor=white" />
     <img src="https://img.shields.io/badge/-Figma-white?style=flat-plastic&logo=Figma&logoColor=rgb(234,76,29)" />
