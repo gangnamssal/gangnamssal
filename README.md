@@ -23,15 +23,6 @@
  <br/>
  <br/>
 
- <h2>| GitHub Stats |</h2>
-    
-![gangnamssal's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gangnamssal&show_icons=true&theme=radical)
-    
-    
- <br/>
- <br/>
- <br/>
-
 <h2>| Project Language |</h2>
     
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gangnamssal&layout=compact&theme=dracula)](https://github.com/gangnamssal)
@@ -61,6 +52,15 @@
     <img src="https://img.shields.io/badge/-Notion-000000?style=flat-plastic&logo=Notion&logoColor=white" />
     <img src="https://img.shields.io/badge/-Figma-white?style=flat-plastic&logo=Figma&logoColor=rgb(234,76,29)" />
  
+ <br/>
+ <br/>
+ <br/>
+    
+ <h2>| GitHub Stats |</h2>
+    
+![gangnamssal's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gangnamssal&show_icons=true&theme=radical)
+    
+    
  <br/>
  <br/>
  <br/>
