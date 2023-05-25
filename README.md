@@ -6,15 +6,15 @@
 <br/>
 <br/>
     
-<a href="https://www.instagram.com/3ilove_mj/">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/3ilove_mj/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a> <a href="https://blog.naver.com/24691116">
+<a href="https://blog.naver.com/24691116">
     <img 
         src="https://img.shields.io/badge/NaverBlog-20D789?style=flat-square&logo=naver&logoColor=white&link=https://blog.naver.com/24691116"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+</a> <a href="https://www.instagram.com/3ilove_mj/">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/3ilove_mj/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a> 
     
   <br/>
  <br/>
