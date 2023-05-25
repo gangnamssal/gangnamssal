@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/-TypeScript-2F74C0?style=flat-plastic&logo=TypeScript&logoColor=white" />
 <img src="https://img.shields.io/badge/-React-5ED3F3?style=flat-plastic&logo=React&logoColor=white" />
     <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-plastic&logo=Redux&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-plastic&logo=Zustand&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zustand-443F36?style=flat-plastic&logo=Zustand&logoColor=white" />
     <img src="https://img.shields.io/badge/-ReactQuery-F73F51?style=flat-plastic&logo=ReactQuery&logoColor=white" />
     <img src="https://img.shields.io/badge/-Vue.js-00BB7C?style=flat-plastic&logo=Vue.js&logoColor=white" />
      <img src="https://img.shields.io/badge/-Python-3771A0?style=flat-plastic&logo=Python&logoColor=F7C73B" />
