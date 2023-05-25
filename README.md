@@ -3,6 +3,12 @@
 <div align=center>
     저의 GitHub에 오신걸 환영합니다.
     
+    
+    
+  <br/>
+ <br/>
+ <br/>
+    
     <a href="https://www.instagram.com/3ilove_mj/">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/3ilove_mj/"
@@ -12,10 +18,6 @@
         src="https://img.shields.io/badge/NaverBlog-20D789?style=flat-square&logo=naver&logoColor=white&link=https://blog.naver.com/24691116"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-    
-  <br/>
- <br/>
- <br/>
 
 <h2>| Project Language |</h2>
     
