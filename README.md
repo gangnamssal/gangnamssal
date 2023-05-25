@@ -6,6 +6,22 @@
   <br/>
  <br/>
  <br/>
+    
+ <h2>| 기술블로그 및 SNS |</h2>
+
+<a href="https://www.instagram.com/3ilove_mj/">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/3ilove_mj/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a> <a href="https://blog.naver.com/24691116">
+    <img 
+        src="https://img.shields.io/badge/NaverBlog-20D789?style=flat-square&logo=naver&logoColor=white&link=https://blog.naver.com/24691116"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+    
+ <br/>
+ <br/>
+ <br/>
 
  <h2>| GitHub Stats |</h2>
     
@@ -45,22 +61,6 @@
     <img src="https://img.shields.io/badge/-Notion-000000?style=flat-plastic&logo=Notion&logoColor=white" />
     <img src="https://img.shields.io/badge/-Figma-white?style=flat-plastic&logo=Figma&logoColor=rgb(234,76,29)" />
  
- <br/>
- <br/>
- <br/>
-    
- <h2>| 기술블로그 및 SNS |</h2>
-
-<a href="https://www.instagram.com/3ilove_mj/">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/3ilove_mj/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a> <a href="https://blog.naver.com/24691116">
-    <img 
-        src="https://img.shields.io/badge/NaverBlog-20D789?style=flat-square&logo=naver&logoColor=white&link=https://blog.naver.com/24691116"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-    
  <br/>
  <br/>
  <br/>
