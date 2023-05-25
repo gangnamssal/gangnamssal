@@ -9,7 +9,7 @@
  <br/>
  <br/>
     
-    <a href="https://www.instagram.com/3ilove_mj/">
+ <a href="https://www.instagram.com/3ilove_mj/">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/3ilove_mj/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
