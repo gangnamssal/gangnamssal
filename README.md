@@ -29,12 +29,13 @@
     <img src="https://img.shields.io/badge/-TypeScript-2F74C0?style=flat-plastic&logo=TypeScript&logoColor=white" />
 <img src="https://img.shields.io/badge/-React-5ED3F3?style=flat-plastic&logo=React&logoColor=white" />
     <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-plastic&logo=Redux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ReduxSaga-949494?style=flat-plastic&logo=ReduxSaga&logoColor=85D26A" />
     <img src="https://img.shields.io/badge/-Zustand-443F36?style=flat-plastic&logo=Zustand&logoColor=white" />
     <img src="https://img.shields.io/badge/-ReactQuery-F73F51?style=flat-plastic&logo=ReactQuery&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Vue.js-00BB7C?style=flat-plastic&logo=Vue.js&logoColor=white" />
-     <img src="https://img.shields.io/badge/-Python-3771A0?style=flat-plastic&logo=Python&logoColor=F7C73B" />
-     <img src="https://img.shields.io/badge/-ReduxSaga-949494?style=flat-plastic&logo=ReduxSaga&logoColor=85D26A" />
     <img src="https://img.shields.io/badge/-Emotion.js-C43BAD?style=flat-plastic&logo=Emotion.js&logoColor=85D26A" />
+    <img src="https://img.shields.io/badge/-Vue.js-00BB7C?style=flat-plastic&logo=Vue.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-plastic&logo=D3.js&logoColor=white" />
+     <img src="https://img.shields.io/badge/-Python-3771A0?style=flat-plastic&logo=Python&logoColor=F7C73B" />
     <img src="https://img.shields.io/badge/-GreenSock-88CE02?style=flat-plastic&logo=GreenSock&logoColor=white" />
     <img src="https://img.shields.io/badge/-HTML5-DD4D25?style=flat-plastic&logo=HTML5&logoColor=white" />
     <img src="https://img.shields.io/badge/-CSS3-146EB0?style=flat-plastic&logo=CSS3&logoColor=white" />
