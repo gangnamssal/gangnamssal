@@ -1,4 +1,4 @@
-<div align=center><h2>안녕하세요! <a href="https://oil-atom-708.notion.site/9580e24a17a343eeab12db7ed9e0e099">@gangnamssal</a>입니다.😄</h2></div>
+<div align=center><h2>안녕하세요! <a href="https://gangnamssal.notion.site/9580e24a17a343eeab12db7ed9e0e099">@gangnamssal</a>입니다.😄</h2></div>
 
 <div align=center>
     저의 GitHub에 오신걸 환영합니다.
