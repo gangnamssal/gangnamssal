@@ -1,6 +1,11 @@
-<div align=center><h2>안녕하세요! <span style="color : green;">습관</span>에 강한 <br /> 프론트엔드 개발자 김태헌입니다.</h2></div>
-
 <div align=center>
+    <h2>안녕하세요! 습관에 강한 
+        <br /> 
+        프론트엔드 개발자 김태헌입니다.
+        <br /> 
+        <br /> 
+    </h2>
+    
     <ul style="list-style: none;">
         <li>새로운 기술을 공부하고 프로젝트에 적용하는 과정에 거리낌이 없습니다.</li>
         <li>다양한 기술을 활용하면서 어떤 기술이 사용자 경험(UX)을 향상시킬 수 있는지에 대해 항상 고민합니다.</li>
