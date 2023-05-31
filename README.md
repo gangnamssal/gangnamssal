@@ -56,6 +56,4 @@
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gangnamssal&layout=compact&theme=dracula)](https://github.com/gangnamssal)
 	
 ![gangnamssal's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gangnamssal&show_icons=true&theme=radical)
-
-![gangnamssal's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=gangnamssal)
 </div>
