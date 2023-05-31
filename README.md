@@ -1,4 +1,4 @@
-<div align=center><h2>안녕하세요! <span style="color : red;">습관</span>에 강한 <br /> 프론트엔드 개발자 김태헌입니다.</h2></div>
+<div align=center><h2>안녕하세요! <span style="color : green;">습관</span>에 강한 <br /> 프론트엔드 개발자 김태헌입니다.</h2></div>
 
 <div align=center>
     <ul style="list-style : none;">
