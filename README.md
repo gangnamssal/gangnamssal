@@ -9,7 +9,6 @@
     </ul>
     
 <br/>
-<br/>
 
 <a href="https://gangnamssal.notion.site/9580e24a17a343eeab12db7ed9e0e099">
     <img 
@@ -26,8 +25,6 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a> 
     
-  <br/>
- <br/>
  <br/>
 
 <h2>| Project Language |</h2>
