@@ -1,5 +1,5 @@
 <div align=center>
-<p font-size=1.4rem>안녕하세요! <span style="color : green;">습관</span>에 강한 
+<p size=1.4rem>안녕하세요! <span style="color : green;">습관</span>에 강한 
     <br /> 프론트엔드 개발자 김태헌입니다.
 </p>
     <span>새로운 기술을 공부하고 프로젝트에 적용하는 과정에 거리낌이 없습니다.</span>
