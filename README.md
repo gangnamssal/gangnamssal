@@ -8,7 +8,7 @@
 
 <a href="https://gangnamssal.notion.site/9580e24a17a343eeab12db7ed9e0e099">
     <img 
-        src="https://img.shields.io/badge/Notion-20D789?style=flat-square&logo=notion&logoColor=black&link=https://gangnamssal.notion.site/9580e24a17a343eeab12db7ed9e0e099"
+        src="https://img.shields.io/badge/Notion-F1F3F4?style=flat-square&logo=notion&logoColor=black&link=https://gangnamssal.notion.site/9580e24a17a343eeab12db7ed9e0e099"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="https://blog.naver.com/24691116">
