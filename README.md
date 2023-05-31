@@ -1,11 +1,16 @@
-<div align=center><h2>안녕하세요! <a href="https://gangnamssal.notion.site/9580e24a17a343eeab12db7ed9e0e099">@gangnamssal</a>입니다.😄</h2></div>
+<div align=center><h2>안녕하세요! 습관에 강한</h2><h2>프론트엔드 개발자 김태헌입니다.</h2></div>
 
 <div align=center>
     저의 GitHub에 오신걸 환영합니다.
     
 <br/>
 <br/>
-    
+
+<a href="https://gangnamssal.notion.site/9580e24a17a343eeab12db7ed9e0e099">
+    <img 
+        src="https://img.shields.io/badge/Notion-20D789?style=flat-square&logo=notion&logoColor=black&link=https://gangnamssal.notion.site/9580e24a17a343eeab12db7ed9e0e099"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 <a href="https://blog.naver.com/24691116">
     <img 
         src="https://img.shields.io/badge/NaverBlog-20D789?style=flat-square&logo=naver&logoColor=white&link=https://blog.naver.com/24691116"
