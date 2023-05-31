@@ -1,17 +1,16 @@
 <div align=center>
-    <h2>안녕하세요! 습관에 강한 
-        <br /> 
-        프론트엔드 개발자 김태헌입니다.
-        <br /> 
-        <br /> 
-    </h2>
-    
-        <p>새로운 기술을 공부하고 프로젝트에 적용하는 과정에 거리낌이 없습니다.</p>
-        <p>다양한 기술을 활용하면서 어떤 기술이 사용자 경험(UX)을 향상시킬 수 있는지에 대해 항상 고민합니다.</p>
-        <p>사용자 경험을 최적화하기 위해 로직을 고민하며 개발하는 개발자입니다.</p>
-        <p>7년간 매일 꾸준히 운동을 하며, 370시간의 봉사활동과 3년간의 아르바이트 경험 등, 다양한 습관을 가진 강점이 있는 사람입니다.</p>
-<br/>
-
+    <h2>안녕하세요! <span style="color : green;">습관</span>에 강한 
+        <br /> 프론트엔드 개발자 김태헌입니다.
+        <br />
+        <br />
+        <span>새로운 기술을 공부하고 프로젝트에 적용하는 과정에 거리낌이 없습니다.</span>
+        <br />
+        <span>다양한 기술을 활용하면서 어떤 기술이 사용자 경험(UX)을 향상시킬 수 있는지에 대해 항상 고민합니다.</span>
+        <br />
+        <span>사용자 경험을 최적화하기 위해 로직을 고민하며 개발하는 개발자입니다.</span>
+        <br />
+        <span>7년간 매일 꾸준히 운동을 하며, 370시간의 봉사활동과 3년간의 아르바이트 경험 등, 다양한 습관을 가진 강점이 있는 사람입니다.</span>
+        <br/>
 <a href="https://gangnamssal.notion.site/9580e24a17a343eeab12db7ed9e0e099">
     <img 
         src="https://img.shields.io/badge/Notion-F1F3F4?style=flat-square&logo=notion&logoColor=black&link=https://gangnamssal.notion.site/9580e24a17a343eeab12db7ed9e0e099"
@@ -26,9 +25,10 @@
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/3ilove_mj/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a> 
-    
- <br/>
+    </h2>
+</div>
 
+<div align=center>
 <h2>| Project Language |</h2>
     
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gangnamssal&layout=compact&theme=dracula)](https://github.com/gangnamssal)
@@ -36,7 +36,6 @@
  <br/>
  <br/>
  <br/>
-
   <h2>| 기술 스택 |</h2>
    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-plastic&logo=JavaScript&logoColor=black" />
     <img src="https://img.shields.io/badge/-TypeScript-2F74C0?style=flat-plastic&logo=TypeScript&logoColor=white" />
@@ -70,5 +69,4 @@
  <br/>
  <br/>
  <br/>
-
 </div>
