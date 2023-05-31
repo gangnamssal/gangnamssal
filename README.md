@@ -10,6 +10,8 @@
     <br />
     <span>7년간 매일 꾸준히 운동을 하며, 370시간의 봉사활동과 3년간의 아르바이트 경험 등, 다양한 습관을 가진 강점이 있는 사람입니다.</span>
     <br/>
+    <br/>
+    <br/>
 <a href="https://gangnamssal.notion.site/9580e24a17a343eeab12db7ed9e0e099">
     <img 
         src="https://img.shields.io/badge/Notion-F1F3F4?style=flat-square&logo=notion&logoColor=black&link=https://gangnamssal.notion.site/9580e24a17a343eeab12db7ed9e0e099"
