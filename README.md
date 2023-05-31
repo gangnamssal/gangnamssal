@@ -3,13 +3,13 @@
     <br /> 프론트엔드 개발자 김태헌입니다.
 </h2>
     <span>새로운 기술을 공부하고 프로젝트에 적용하는 과정에 거리낌이 없습니다.</span>
-        <br />
-        <span>다양한 기술을 활용하면서 어떤 기술이 사용자 경험(UX)을 향상시킬 수 있는지에 대해 항상 고민합니다.</span>
-        <br />
-        <span>사용자 경험을 최적화하기 위해 로직을 고민하며 개발하는 개발자입니다.</span>
-        <br />
-        <span>7년간 매일 꾸준히 운동을 하며, 370시간의 봉사활동과 3년간의 아르바이트 경험 등, 다양한 습관을 가진 강점이 있는 사람입니다.</span>
-        <br/>
+    <br />
+    <span>다양한 기술을 활용하면서 어떤 기술이 사용자 경험(UX)을 향상시킬 수 있는지에 대해 항상 고민합니다.</span>
+    <br />
+    <span>사용자 경험을 최적화하기 위해 로직을 고민하며 개발하는 개발자입니다.</span>
+    <br />
+    <span>7년간 매일 꾸준히 운동을 하며, 370시간의 봉사활동과 3년간의 아르바이트 경험 등, 다양한 습관을 가진 강점이 있는 사람입니다.</span>
+    <br/>
 <a href="https://gangnamssal.notion.site/9580e24a17a343eeab12db7ed9e0e099">
     <img 
         src="https://img.shields.io/badge/Notion-F1F3F4?style=flat-square&logo=notion&logoColor=black&link=https://gangnamssal.notion.site/9580e24a17a343eeab12db7ed9e0e099"
