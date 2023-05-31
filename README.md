@@ -1,4 +1,4 @@
-<div align=center><h2>안녕하세요! 습관에 강한</h2><h2>프론트엔드 개발자 김태헌입니다.</h2></div>
+<div align=center><h2>안녕하세요! 습관에 강한 <br /> 프론트엔드 개발자 김태헌입니다.</h2></div>
 
 <div align=center>
     저의 GitHub에 오신걸 환영합니다.
