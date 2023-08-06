@@ -15,13 +15,23 @@
 	<img src="https://img.shields.io/badge/-React-5ED3F3?style=flat-plastic&logo=React&logoColor=white" />
 	<img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-plastic&logo=Redux&logoColor=white" />
 	<img src="https://img.shields.io/badge/-ReduxSaga-949494?style=flat-plastic&logo=ReduxSaga&logoColor=85D26A" />
-	<img src="https://img.shields.io/badge/-Zustand-443F36?style=flat-plastic&logo=Zustand&logoColor=white" />
 	<img src="https://img.shields.io/badge/-ReactQuery-F73F51?style=flat-plastic&logo=ReactQuery&logoColor=white" />
+	<img src="https://img.shields.io/badge/-Zustand-443F36?style=flat-plastic&logo=Zustand&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/-Vue.js-00BB7C?style=flat-plastic&logo=Vue.js&logoColor=white" />
+	<img src="https://img.shields.io/badge/-Next.js-white?style=flat-plastic&logo=Next.js&logoColor=black" />
 	<img src="https://img.shields.io/badge/-Emotion.js-C43BAD?style=flat-plastic&logo=Emotion.js&logoColor=85D26A" />
-	<img src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-plastic&logo=D3.js&logoColor=white" />
-	<img src="https://img.shields.io/badge/-GreenSock-88CE02?style=flat-plastic&logo=GreenSock&logoColor=white" />
+	<br>
+	<img src="https://img.shields.io/badge/-Vite-9663F4?style=flat-plastic&logo=Vite&logoColor=F7BE1B" />
+	<img src="https://img.shields.io/badge/-Vitest-6D9421?style=flat-plastic&logo=Vitest&logoColor=F7BE1B" />
+	<img src="https://img.shields.io/badge/-Jest-393536?style=flat-plastic&logo=Jest&logoColor=BF3A13" />
+	<img src="https://img.shields.io/badge/-TestingLibrary-393536?style=flat-plastic&logo=TestingLibrary&logoColor=EC3932" />
+	<br>
+	<img src="https://img.shields.io/badge/-AWS-white?style=flat-plastic&logo=AmazonAWS&logoColor=F79400" />
+	<img src="https://img.shields.io/badge/-Prettier-192A32?style=flat-plastic&logo=Prettier&logoColor=F79400" />
+	<img src="https://img.shields.io/badge/-ESLint-4930BD?style=flat-plastic&logo=ESLint&logoColor=white" />
+	<img src="https://img.shields.io/badge/-GithubActions-1C84F7?style=flat-plastic&logo=GitHubActions&logoColor=white" />
+	<img src="https://img.shields.io/badge/-Vercel-white?style=flat-plastic&logo=Vercel&logoColor=black" />
 </div>
 <br>
 <div align=center>
