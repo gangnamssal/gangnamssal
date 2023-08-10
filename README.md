@@ -55,7 +55,7 @@
 	<a href="mailto:24691116@naver.com">
 		<img src="https://img.shields.io/badge/Mail-E34133?style=flat&logo=Gail&logoColor=white" />
 	</a>
-	<a href="https://gangnamssal.notion.site/9580e24a17a343eeab12db7ed9e0e099">
+	<a href="https://www.notion.so/gangnamssal/9580e24a17a343eeab12db7ed9e0e099?pvs=4">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
 	<br>
